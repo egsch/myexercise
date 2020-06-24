@@ -1,6 +1,6 @@
 # Exercise Tracker REST API
 
-#### A microservice project, part of Free Code Camp's curriculum
+#### A microservice project, part of Free Code Camp's curriculum, with an added initial UI
 
 ### User Stories
 
